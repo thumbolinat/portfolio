@@ -1,5 +1,5 @@
-#portfolio
-# Horison
+# Portfolio 
+
 
 ## Purpose
 Tamara M.'s Portfolio Website
@@ -10,7 +10,7 @@ Tamara M.'s Portfolio Website
 
 
 ## Website
-https://thumbolinat.github.io/password/  
+https://thumbolinat.github.io/portfolio/  
 
 ## Contribution
 Made THUMBOLINA T
